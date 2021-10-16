@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { FaStar } from "react-icons/fa";
-import Movie from './Movie';
+import Movie from './movie';
 import { top10 } from '../top10';
 import MovieList from "./MovieList";
 
