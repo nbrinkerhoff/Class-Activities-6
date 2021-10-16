@@ -1,5 +1,5 @@
 import React, { createContext, useState, useEffect } from "react";
-import Movie from "./Movie";
+import Movie from "./movie";
 import { Switch, Route, Link, Redirect, useHistory } from "react-router-dom";
 import { About, ErrorNotFound } from "./Pages";
 import { MovieForm } from "./MovieForm";
